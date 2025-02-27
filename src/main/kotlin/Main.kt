@@ -1,4 +1,3 @@
 package com.rukkhadevatah.app
 
-class Main {
-}
+fun main() = Application.initialize()
